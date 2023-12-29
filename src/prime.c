@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30752
+// 題目8. 質數判別
 #include <stdio.h>
 #include <stdbool.h>
 #include <math.h>

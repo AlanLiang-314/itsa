@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6933
+// [C_MM28-易] 計算1到N之間屬於5和7的倍數
 #include <stdio.h>
 
 int main() {

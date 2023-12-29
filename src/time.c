@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6894
+// [C_MM14-易] 計算時間的組合
 #include <stdio.h>
 
 int main() {

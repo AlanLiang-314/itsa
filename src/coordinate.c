@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6951
+// [C_MM37-易] 判斷座標位於何處
 #include <stdio.h>
 
 char *names[7] = {"Origin", "y-axis", "x-axis", "1st Quadrant", "2nd Quadrant", "3rd Quadrant", "4th Quadrant"};

@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6885
+// [C_MM11-易] 購票計算
 #include <stdio.h>
 
 int main() {

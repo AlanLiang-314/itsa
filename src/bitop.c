@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?a=2921
+// [C_MM09-易] 計算 i 次方的值
 #include <stdio.h>
 
 int main() {

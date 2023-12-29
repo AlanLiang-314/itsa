@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30757
+// 題目10. 輾轉相除法
 #include <stdio.h>
 
 int gcd(int a, int b) {

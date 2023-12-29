@@ -1,3 +1,6 @@
+// https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6953
+// [C_MM38-易] 判斷3整數是否能構成三角形之三邊長
+
 #include <stdio.h>
 
 int main() {

@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6855
+// [C_MM01-易] 計算梯型面積
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,6 @@
+// https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30784
+// 題目27. 猜數字
+
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>

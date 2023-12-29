@@ -1,3 +1,6 @@
+// https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6955
+// [C_MM39-易] 判斷是何種三角形
+
 #include <stdio.h>
 #include <stdlib.h>
 

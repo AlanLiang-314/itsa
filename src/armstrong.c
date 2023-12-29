@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6941
+// [C_MM32-易] Armstrong數
 #include <stdio.h>
 #include <math.h>
 

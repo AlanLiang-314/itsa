@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6945
+// [C_MM34-易] 因數問題
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,6 @@
+// https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6867
+// [C_MM05-易] 計算正方形面積
+
 #include <stdio.h>
 #include <math.h>
 

@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30761
+// 題目12. 遞迴程式練習
 #include <stdio.h>
 
 int func(int n) {

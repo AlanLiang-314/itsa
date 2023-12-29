@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?a=15907
+// 題目9. 計算正整數被3整除之數值之總和
 #include <stdio.h>
 
 int main() {

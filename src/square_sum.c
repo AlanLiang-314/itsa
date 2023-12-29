@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6928
+// [C_MM26-易] 輸出 1*1、2*2、...、N*N之結果
 #include <stdio.h>
 
 int main() {

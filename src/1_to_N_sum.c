@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6957
+// [C_MM40-易] 1~N之間的總和
 #include <stdio.h>
 
 int main() {

@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30754
+// 題目6. 季節判定
 #include <stdio.h>
 
 int main() {

@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6947
+// [C_MM35-易] 平、閏年判定
 #include <stdio.h>
 
 int main() {
